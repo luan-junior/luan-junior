@@ -1,7 +1,7 @@
 ## Who I am?
 
 - 👋 Hello, I’m @luan-junior
-- 👀 I’m interested in Javascript, HTML, CSS, React.JS, React Native, Typescript
+- 👀 I’m interested in React.JS, React Native, Node.js
 - 🌱 I’m currently learning Javascript, Refactoring, Coding best practices, Clean Code, Architecture
 - 💪 I’m looking to collaborate on JavaScript projects.
 
